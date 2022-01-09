@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Jasurbek",
+        "age": 18,
+        "from": "Uzbekistan",
+        "married": false,
+        "company": "Facebook"       
+    },
+    {
+        "name": "Alex",
+        "age": 22,
+        "from": "Spain",
+        "married": false,
+        "company": "Netlfix"       
+    }
+]
